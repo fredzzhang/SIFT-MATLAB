@@ -3,15 +3,16 @@ Extract and match features using SIFT descriptors
 
 ## Code Structure
 
-	main.m 	- the entry point of the program
-	sift.m 	- script that involkes SIFT program based on various OS
-	SIFTmatch.m - match SIFT descriptors according to the distance in Euclidean space
-	showkeys.m 	- display SIFT descriptors
+	main.m       - the entry point of the program
+	sift.m       - script that involkes SIFT program based on various OS
+	SIFTmatch.m  - match SIFT descriptors according to the distance in Euclidean space
+	showkeys.m   - display SIFT descriptors
 	
 ## Sample Experiment Results
-Extracted SIFT descriptors
-<img src="images/sift1.png" width='350' height='350' align="left">  
-<img src="images/sift2.png" width='474' height='350' align="left">  
+Extracted SIFT descriptors   
+
+<img src="images/sift1.png" width='350' height='350' align="middle">  
+<img src="images/sift2.png" width='474' height='350' align="middle">  
 
 Matched SIFT features
 
