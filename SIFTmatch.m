@@ -2,7 +2,7 @@ function [index1, index2] = SIFTmatch(descpt1, descpt2, num)
 % Function: Match the SIFT descriptors between two images
 % Usage:
 % 
-%       [index1, index2] = SIFTmatch(descpt1, descpt2)
+%       [index1, index2] = SIFTmatch(descpt1, descpt2, num)
 %   where:
 %       index1 - indices of the matched features in the first set
 %       index2 - indices of the matched features in the second set
