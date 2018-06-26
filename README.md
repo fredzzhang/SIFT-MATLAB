@@ -11,12 +11,12 @@ Extract and match features using SIFT descriptors
 ## Sample Experiment Results
 Extracted SIFT descriptors   
 
-<img src="images/sift1.png" width='350' height='350' align="middle">  
-<img src="images/sift2.png" width='474' height='350' align="middle">  
+<img src="images/sift1.png" width='300' height='300' align="middle">  
+<img src="images/sift2.png" width='406' height='300' align="middle">  
 
 Matched SIFT features
 
-<img src="images/feature_match.png" width='800' height='387' align="left">  
+<img src="images/feature_match.png" width='800' height='387' align="middle">  
 
 ## Usage
 Clone the repository using the following command
