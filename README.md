@@ -15,7 +15,7 @@ _Extracted SIFT descriptors_
 
 _Matched SIFT features_
 
-<img src="images/feature_match.png" width='800' height='387' align="middle">  
+<img src="images/feature_match.png" width='706' height='342' align="middle">  
 
 ## Usage
 Clone the repository using the following command
