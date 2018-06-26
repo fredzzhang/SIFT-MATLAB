@@ -9,11 +9,11 @@ Extract and match features using SIFT descriptors
 	showkeys.m   - display SIFT descriptors
 	
 ## Sample Experiment Results
-_Extracted SIFT descriptors_   
+__Extracted SIFT descriptors__   
 
 <img src="images/sift1.png" width='300' height='300' align="middle"><img src="images/sift2.png" width='406' height='300' align="middle">  
 
-_Matched SIFT features_
+__Matched SIFT features__
 
 <img src="images/feature_match.png" width='706' height='342' align="middle">  
 
